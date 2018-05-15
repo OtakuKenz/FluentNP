@@ -7,7 +7,7 @@
         xmlns:local="clr-namespace:CustomNP"
         mc:Ignorable="d"
         fw:AcrylicWindow.Enabled="True"
-        Title="Custom NotePad" Height="450" Width="800"
+        Title="Fluent NotePad" Height="450" Width="800"
         Closing="Window_Closing">
     <Window.Resources>
         <Style TargetType="StackPanel">
