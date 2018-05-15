@@ -45,6 +45,8 @@
         </Grid>
         <Grid Grid.Row="1" fw:PointerTracker.Enabled="True">
             <TextBox x:Name="txtBox"
+                     TextWrapping="Wrap"
+                     AcceptsReturn="True"
                      Style="{StaticResource TextBoxRevealStyle}"
                      BorderThickness="0.5"/>
         </Grid>
